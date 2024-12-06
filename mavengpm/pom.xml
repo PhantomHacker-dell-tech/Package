@@ -35,8 +35,8 @@
 
   <distributionManagement>
     <repository>
-      <id>github</id>narcisocorreia/mavengpm
-      <url>https://maven.pkg.github.com/</url>
+      <id>github</id>
+      <url>https://maven.pkg.github.com/narcisocorreia/mavengpm</url>
     </repository>
   </distributionManagement>
 
