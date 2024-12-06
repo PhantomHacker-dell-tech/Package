@@ -5,7 +5,6 @@
 
   <groupId>com.example</groupId>
   <artifactId>mavengpm</artifactId>
-  <!-- Increment the version number -->
   <version>12.0.2</version>
   <packaging>jar</packaging>
 
@@ -13,7 +12,6 @@
   <description>A simple Maven project to demonstrate GitHub Packages</description>
 
   <dependencies>
-    <!-- Add JUnit dependency for tests -->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
@@ -37,8 +35,8 @@
 
   <distributionManagement>
     <repository>
-      <id>github</id>
-      <url>https://maven.pkg.github.com/narcisocorreia/mavengpm</url>
+      <id>github</id>narcisocorreia/mavengpm
+      <url>https://maven.pkg.github.com/</url>
     </repository>
   </distributionManagement>
 
