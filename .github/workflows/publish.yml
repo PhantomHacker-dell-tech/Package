@@ -36,4 +36,3 @@ jobs:
         working-directory: ./mavengpm
         run: |
           mvn clean install
-          mvn deploy
