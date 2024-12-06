@@ -35,5 +35,3 @@ jobs:
         run: |
           mvn clean install
           mvn deploy
-        env:
-          GH_PAT: ${{ secrets.PAT_TOKEN }}
